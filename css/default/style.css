@@ -1742,7 +1742,8 @@ button:hover {
     border-bottom: 3px solid #000;
     background-image: url(../../images/bg-mapa.png);
     background-repeat: repeat-x;
-    background-position: center top;}
+    background-position: center bottom;
+    }
 .book_banner .view_all {
   background: #fff;
   color: #fe824c;
